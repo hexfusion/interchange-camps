@@ -2,7 +2,7 @@ interchange-camps
 =================
 Stay tuned
 
-Camps bundled with the most current version of Interchange and Josh Lavins new bootstrap template.
+Camps bundled with the most current version of Interchange and Josh Lavin's new bootstrap template demo.
 
 https://github.com/interchange/interchange
 
